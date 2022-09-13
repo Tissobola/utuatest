@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018016967394",
+    "project_id": "utua-test",
+    "storage_bucket": "utua-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018016967394:android:bfd1fe242d7e7fdde74cbb",
+        "android_client_info": {
+          "package_name": "com.example.utua_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018016967394-eplpljm28kdkckdnot3ipr1f2ief4rts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUn3LAgCwmcE9vcUXDbbo5CN-Ckk4i7Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018016967394-eplpljm28kdkckdnot3ipr1f2ief4rts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
